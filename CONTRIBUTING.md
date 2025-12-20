@@ -98,8 +98,8 @@ This section guides contributors on how to build, modify, and understand the dev
 To clone the repository:
 
 ```bash
-git clone https://github.com/google-gemini/gemini-cli.git # Or your fork's URL
-cd gemini-cli
+git clone https://github.com/blackboxaicode/cli.git # Or your fork's URL
+cd cli
 ```
 
 To install dependencies defined in `package.json` as well as root dependencies:
